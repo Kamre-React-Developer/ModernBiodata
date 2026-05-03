@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ModernBiodata 🪔
 
-# Run and deploy your AI Studio app
+A professional and free marriage biodata maker with modern templates and high-quality PDF downloads.
 
-This contains everything you need to run your app locally.
+## Features
+- 100 Beautiful Templates
+- PDF Download
+- Live Preview
+- Mobile Friendly
 
-View your app in AI Studio: https://ai.studio/apps/0717f072-2fb1-49c8-ac3d-36fb5d9a9fd9
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Live Demo
+Coming soon...
